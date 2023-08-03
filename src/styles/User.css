@@ -1,0 +1,13 @@
+.user-card {
+    border: 1px solid var(--light-gray);
+    transition: .2s ease;
+}
+.user-card:hover {
+    border: 1px solid var(--light-border);
+    cursor: pointer;
+}
+
+.user-avatar {
+    width: 70px;
+    height: 70px;
+}

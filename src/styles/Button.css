@@ -1,0 +1,7 @@
+.btn-utility {
+    background: var(--primary-color);
+    padding: .5rem 1.25rem;
+}
+.btn-utility:hover {
+    opacity: .85;
+}
